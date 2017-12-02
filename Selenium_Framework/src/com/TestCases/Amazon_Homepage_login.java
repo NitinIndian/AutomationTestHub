@@ -22,7 +22,7 @@ public class Amazon_Homepage_login {
 		Login.Password("Omsai$1234");
 		Login.LoginBtn();
 		
-		System.out.println("Git");
+	
 		
   }
 }
