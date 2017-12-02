@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="95947" started-at="2017-11-26T06:35:42Z" finished-at="2017-11-26T06:37:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="95947" started-at="2017-11-26T06:35:42Z" finished-at="2017-11-26T06:37:18Z">
+      <class name="com.TestCases.Amazon_HomePage">
+        <test-method status="PASS" signature="HomePage_Login()[pri:0, instance:com.TestCases.Amazon_HomePage@f5e5e3]" name="HomePage_Login" duration-ms="95903" started-at="2017-11-26T12:05:42Z" finished-at="2017-11-26T12:07:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage_Login -->
+      </class> <!-- com.TestCases.Amazon_HomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
