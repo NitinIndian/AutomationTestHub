@@ -20,7 +20,7 @@ public class Amazon_Homepage_login {
 	  	Login.UserID("nitinkushwah189@gmail.com");
 		Login.ContinueBTN();
 		Login.Password("Omsai$1234");
-		//Login.LoginBtn();
+		Login.LoginBtn();
 		
 	
 		
