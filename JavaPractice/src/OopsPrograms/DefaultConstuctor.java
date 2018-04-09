@@ -8,7 +8,7 @@ public class DefaultConstuctor {
 
 	public static void main(String args[]){
 
-		new DefaultConstuctor();
+		DefaultConstuctor df=new DefaultConstuctor();
 
 
 	}
